@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wormnotif",
+  "name": "Worm Notification",
+  "description": "A simple worm notification when they spawn, no config yet",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dradonhunter11"],
+  "credits": "Me, Myself and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
